@@ -1,6 +1,6 @@
 # Agente de WhatsApp de la Camara de Comercio
 
-Responde en italiano, español o portugués usando SOLO los documentos de la carpeta `knowledge/`.
+Responde en italiano, español o inglés usando SOLO los documentos de la carpeta `knowledge/`.
 Deriva a una persona cuando hace falta, y el administrador controla todo desde su propio WhatsApp.
 
 ## Cuenta de WhatsApp Business
